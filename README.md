@@ -1,2 +1,2 @@
 # golang
-Learning golang
+golang experimentation
